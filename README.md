@@ -5,5 +5,5 @@
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
 - 🧑🏻‍💻 &nbsp;Programmer
-- 🌏 Open-source software developer
+- 🌏 Open-source software Reader and User
 - ⚡ Go, NodeJS, Java, C, PHP...
