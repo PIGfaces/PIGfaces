@@ -10,4 +10,4 @@
 - ⚡ Go, NodeJS, Java, C, PHP...
 
 <h3>📊 Commonly used programming languages:</h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIGfaces&layout=compact" alt="common language">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIGfaces&layout=compact" alt="common language">
