@@ -9,5 +9,5 @@
 - 🌏 Open-source software Reader and User
 - ⚡ Go, NodeJS, Java, C, PHP...
 
-<h3>📊 This Week I Spent My Time On:</h3>
-<img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=zbgk3g7ojwjwrwrleo6u8mhub&cover_image=true&theme=novatorem" width="300">
+<h3>📊 Commonly used programming languages:</h3>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIGfaces&layout=compact" alt="common language">
